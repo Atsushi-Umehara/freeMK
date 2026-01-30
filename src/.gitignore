@@ -1,0 +1,41 @@
+####################################
+# Laravel / PHP
+####################################
+/vendor
+/node_modules
+
+.env
+.env.backup
+.phpunit.result.cache
+
+/storage/*.key
+/storage/framework
+/storage/logs
+/bootstrap/cache
+
+/public/hot
+/public/storage
+
+####################################
+# Docker
+####################################
+/docker/mysql/data
+docker-compose.override.yml
+
+####################################
+# Homestead
+####################################
+Homestead.json
+Homestead.yaml
+
+####################################
+# Logs
+####################################
+npm-debug.log
+yarn-error.log
+
+####################################
+# IDE / Editor
+####################################
+/.vscode
+/.idea

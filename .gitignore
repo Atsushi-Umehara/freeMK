@@ -1,0 +1,2 @@
+# Docker (MySQLの実データはGitに入れない)
+/docker/mysql/data/
